@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 30px;
+    color: #222;
+}
+h1 {
+    color: #0d6b6b;
+}
+label {
+    display: inline-block;
+    width: 100px;
+    font-weight: bold;
+    margin-top: 8px;
+}
+label.pad_top {
+    margin-top: 12px;
+}
+input[type="text"],
+input[type="email"] {
+    width: 220px;
+    padding: 4px;
+}
+input[type="submit"] {
+    margin-top: 12px;
+}
+.margin_left {
+    margin-left: 4px;
+}

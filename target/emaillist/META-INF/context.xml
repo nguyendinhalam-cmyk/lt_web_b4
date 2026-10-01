@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+    <Resource name="jdbc/emaillistDB" auth="Container"
+              type="javax.sql.DataSource"
+              driverClassName="com.mysql.cj.jdbc.Driver"
+              url="${db.url}"
+              username="${db.user}"
+              password="${db.pass}"
+              maxTotal="5" maxIdle="2"/>
+</Context>

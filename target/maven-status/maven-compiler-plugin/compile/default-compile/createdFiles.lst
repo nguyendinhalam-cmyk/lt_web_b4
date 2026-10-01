@@ -1,0 +1,9 @@
+murach\email\EmailListServlet.class
+murach\data\DBUtil.class
+murach\business\User.class
+murach\util\MailUtilLocal.class
+murach\util\MailUtilGmail.class
+murach\data\UserDB.class
+murach\data\ConnectionPool.class
+murach\util\MailUtilBrevo.class
+murach\util\MailUtilRender.class
